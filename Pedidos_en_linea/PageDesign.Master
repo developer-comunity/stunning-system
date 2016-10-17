@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PageDesign.master.cs" Inherits="Pedidos_en_linea.PageDesign" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title></title>
+
+    <%-- BOOTSTRAP --%>
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+
+    <%-- BOOTBOX --%>
+    <script src="js/bootbox.min.js"></script>
+
+    <%-- FONT AWESOME --%>
+
+
+    <%-- TOOLS --%>
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+
+    <%-- JQuery --%>
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <%-- Js para bootstrap --%>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

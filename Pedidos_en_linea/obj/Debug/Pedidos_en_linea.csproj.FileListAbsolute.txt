@@ -1,0 +1,6 @@
+C:\Users\ramir_000\Documents\Pedidos_en_linea\Pedidos_en_linea\Pedidos_en_linea\bin\Pedidos_en_linea.dll.config
+C:\Users\ramir_000\Documents\Pedidos_en_linea\Pedidos_en_linea\Pedidos_en_linea\bin\Pedidos_en_linea.dll
+C:\Users\ramir_000\Documents\Pedidos_en_linea\Pedidos_en_linea\Pedidos_en_linea\bin\Pedidos_en_linea.pdb
+C:\Users\ramir_000\Documents\Pedidos_en_linea\Pedidos_en_linea\Pedidos_en_linea\obj\Debug\Pedidos_en_linea.csprojResolveAssemblyReference.cache
+C:\Users\ramir_000\Documents\Pedidos_en_linea\Pedidos_en_linea\Pedidos_en_linea\obj\Debug\Pedidos_en_linea.dll
+C:\Users\ramir_000\Documents\Pedidos_en_linea\Pedidos_en_linea\Pedidos_en_linea\obj\Debug\Pedidos_en_linea.pdb
